@@ -1,0 +1,281 @@
+[PING 8.8.8.8]
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=60ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=54ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=63ms TTL=112
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 54ms, Maximum = 63ms, Average = 58ms
+
+[DNS LOOKUP google.com]
+google.com resolves to 142.250.193.78
+[DNS LOOKUP google.com]
+google.com resolves to 142.250.193.78
+[SPEED TEST]
+Download Speed: 15.08 Mbps
+Upload Speed: 21.08 Mbps
+[PING 8.8.8.8]
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=202ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=153ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=55ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=59ms TTL=112
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 202ms, Average = 117ms
+
+[PING 8.8.8.8]
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=439ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=112ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=222ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=416ms TTL=112
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 112ms, Maximum = 439ms, Average = 297ms
+
+[PORT SCAN localhost:20-80]
+No open ports found on localhost in range 20-80
+[PORT SCAN localhost:20-80]
+No open ports found on localhost in range 20-80
+[PORT SCAN localhost:20-80]
+No open ports found on localhost in range 20-80
+[PORT SCAN localhost:20-80]
+No open ports found on localhost in range 20-80
+[SPEED TEST]
+Download Speed: 6.06 Mbps
+Upload Speed: 7.47 Mbps
+[SPEED TEST]
+Download Speed: 6.36 Mbps
+Upload Speed: 5.42 Mbps
+[SPEED TEST]
+Download Speed: 5.10 Mbps
+Upload Speed: 6.25 Mbps
+[SPEED TEST]
+Download Speed: 3.08 Mbps
+Upload Speed: 5.61 Mbps
+[SPEED TEST]
+Download Speed: 6.51 Mbps
+Upload Speed: 6.54 Mbps
+[SPEED TEST]
+Download Speed: 3.11 Mbps
+Upload Speed: 5.28 Mbps
+[SPEED TEST]
+Download Speed: 5.64 Mbps
+Upload Speed: 4.20 Mbps
+[SPEED TEST]
+Download Speed: 2.77 Mbps
+Upload Speed: 4.09 Mbps
+[SPEED TEST]
+Download Speed: 80.13 Mbps
+Upload Speed: 16.45 Mbps
+[PING 8.8.8.8]
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=62ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=64ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=65ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=61ms TTL=112
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 61ms, Maximum = 65ms, Average = 63ms
+
+[DNS LOOKUP google.com]
+google.com resolves to 142.250.77.238
+[PORT SCAN localhost:20-80]
+No open ports found.
+[SPEED TEST]
+Download Speed: 3.67 Mbps
+Upload Speed: 15.24 Mbps
+Speed test failed: HTTP Error 403: Forbidden
+Running speed test (India preferred)...
+[2025-05-13 12:45:29] valorant.com resolves to 67.222.154.26
+[2025-05-13 12:45:44] Ping failed: Command '['ping', 'valorant.com', '-n', '4', '4']' returned non-zero exit status 1.
+[2025-05-13 12:45:46] Ping failed: Command '['ping', 'valorant.com', '-n', '4', '4']' returned non-zero exit status 1.
+[2025-05-13 12:50:45] Local Hostname: Rahul-PC
+Local IP: 192.168.31.13
+[2025-05-13 12:50:56] {
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+[2025-05-13 12:51:36] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 74.41 Mbps
+Upload: 18.67 Mbps
+[2025-05-13 12:51:59] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 13.92 Mbps
+Upload: 2.51 Mbps
+[2025-05-13 12:51:59] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 14.43 Mbps
+Upload: 2.46 Mbps
+[2025-05-13 12:52:00] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 8.65 Mbps
+Upload: 1.85 Mbps
+[2025-05-13 12:52:00] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 13.01 Mbps
+Upload: 3.40 Mbps
+[2025-05-13 12:52:00] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 12.95 Mbps
+Upload: 3.00 Mbps
+[2025-05-13 12:52:02] Server: speedtestbwn.meghbelabroadband.in:8080 (Burdwan, India)
+Sponsor: Meghbela Cable & Broadband Services Pvt Ltd
+Download: 8.00 Mbps
+Upload: 2.41 Mbps
+[2025-05-13 12:52:05] Server: speedtest.speedhex.co.in:8080 (Kolkata, India)
+Sponsor: Speed Hex Tele Communications Pvt Ltd
+Download: 10.49 Mbps
+Upload: 2.54 Mbps
+[2025-05-13 12:52:06] Server: speedtest.speedhex.co.in:8080 (Kolkata, India)
+Sponsor: Speed Hex Tele Communications Pvt Ltd
+Download: 10.57 Mbps
+Upload: 2.12 Mbps
+[2025-05-13 12:52:06] Server: speedtest.speedhex.co.in:8080 (Kolkata, India)
+Sponsor: Speed Hex Tele Communications Pvt Ltd
+Download: 5.43 Mbps
+Upload: 2.32 Mbps
+[2025-05-13 12:52:06] Server: speedtest.speedhex.co.in:8080 (Kolkata, India)
+Sponsor: Speed Hex Tele Communications Pvt Ltd
+Download: 7.56 Mbps
+Upload: 1.87 Mbps
+[2025-05-13 12:52:06] Server: speedtest.speedhex.co.in:8080 (Kolkata, India)
+Sponsor: Speed Hex Tele Communications Pvt Ltd
+Download: 4.72 Mbps
+Upload: 2.39 Mbps
+[2025-05-13 12:52:40] 
+Tracing route to dns.google [8.8.8.8]
+over a maximum of 30 hops:
+
+  1    61 ms   175 ms   102 ms  jiofiber.local.html [192.168.31.1] 
+  2    20 ms    87 ms    44 ms  192.0.0.1 
+  3    29 ms    21 ms    43 ms  192.0.0.1 
+  4    41 ms    43 ms    38 ms  192.0.0.1 
+  5    65 ms    39 ms    37 ms  192.0.0.1 
+  6    49 ms    87 ms    43 ms  192.168.227.194 
+  7    29 ms    41 ms    21 ms  172.28.5.168 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13    53 ms    60 ms    52 ms  72.14.195.22 
+ 14    44 ms    45 ms    57 ms  142.251.248.255 
+ 15    50 ms    55 ms    53 ms  142.251.49.115 
+ 16    62 ms    56 ms    46 ms  dns.google [8.8.8.8] 
+
+Trace complete.
+
+[2025-05-13 12:52:43] 
+Tracing route to dns.google [8.8.8.8]
+over a maximum of 30 hops:
+
+  1   134 ms   142 ms    75 ms  jiofiber.local.html [192.168.31.1] 
+  2    23 ms    43 ms    29 ms  192.0.0.1 
+  3    24 ms    24 ms    35 ms  192.0.0.1 
+  4    28 ms    25 ms    24 ms  192.0.0.1 
+  5    40 ms    91 ms    64 ms  192.0.0.1 
+  6    39 ms    54 ms    56 ms  192.168.227.195 
+  7    20 ms    27 ms    27 ms  172.28.5.166 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13    54 ms    59 ms    54 ms  72.14.195.22 
+ 14    55 ms    53 ms    55 ms  142.251.248.255 
+ 15    61 ms    61 ms    54 ms  142.251.49.115 
+ 16    63 ms    48 ms    53 ms  dns.google [8.8.8.8] 
+
+Trace complete.
+
+[2025-05-13 12:52:43] 
+Tracing route to dns.google [8.8.8.8]
+over a maximum of 30 hops:
+
+  1   128 ms    83 ms    24 ms  jiofiber.local.html [192.168.31.1] 
+  2    54 ms    47 ms    22 ms  192.0.0.1 
+  3    30 ms    20 ms    38 ms  192.0.0.1 
+  4    27 ms    30 ms    31 ms  192.0.0.1 
+  5    73 ms   108 ms    80 ms  192.0.0.1 
+  6    81 ms   107 ms   113 ms  192.168.227.195 
+  7    42 ms    28 ms    22 ms  172.28.5.168 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13    46 ms    57 ms    46 ms  72.14.195.22 
+ 14    55 ms    52 ms    54 ms  142.251.248.255 
+ 15    54 ms    47 ms    49 ms  142.251.49.115 
+ 16    52 ms    50 ms    56 ms  dns.google [8.8.8.8] 
+
+Trace complete.
+
+[2025-05-13 12:59:00] Download: 71.33 Mbps
+Upload: 12.56 Mbps
+[2025-05-13 12:59:03] Download: 19.20 Mbps
+Upload: 13.92 Mbps
