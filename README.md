@@ -19,7 +19,8 @@ A modern Python GUI application for real-time network diagnostics — built with
 
 ## 🖥️ Screenshot
 
-![image](https://github.com/user-attachments/assets/7acfc753-e3db-4306-8346-1640af888603)
+![image](https://github.com/user-attachments/assets/5bab8a85-0a47-45aa-ad73-0b99345ce8a1)
+
 
 
 ---
